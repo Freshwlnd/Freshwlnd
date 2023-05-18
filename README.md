@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Freshwlnd.Freshwlnd) -->
+
 | <a href="https://github.com/freshwlnd"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Freshwlnd&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fre5H1nd's github stats" /></a> | <a href="https://github.com/freshwlnd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freshwlnd&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
