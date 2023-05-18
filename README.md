@@ -2,15 +2,16 @@
 
 🌱 I’m learning more about cloud computing and DevOps tools.
 
-👯 I’m looking to collaborate on open source projects that can make a positive impact on the world.
+👯 I’m looking to collaborate on open-source projects that can positively impact the world.
 
 💬 Feel free to ask me anything about my projects or skills.
 
 🏆 I’m a retired ICPC contestant who enjoys solving challenging problems and learning new algorithms.
 
-🎓 I’m currently a PhD student at Tongji University, where I research on cloud computing and service computing.
+🎓 I’m a Ph.D. student at Tongji University, researching cloud computing and service computing.
 
-📫 You can reach me at my email address: xuyh@tongji.edu.cn .
+📫 You can reach me at my email address: xuyh@tongji.edu.cn.
+
 <!--
 **Freshwlnd/Freshwlnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
