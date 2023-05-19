@@ -1,5 +1,5 @@
-<!-- <p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BigBrand.png" /></a></p> -->
-<p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BrandLine.png" /></a></p>
+<p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BigBrand_raw.png" /></a></p>
+<!-- <p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BrandLine_raw.png" /></a></p> -->
 
 <br />
 
