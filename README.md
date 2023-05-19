@@ -1,3 +1,9 @@
+<!-- <p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BigBrand.png" /></a></p> -->
+<p align="center"><a href="https://freshwlnd.github.io"><img width="80%" alt="Hello, I'm Fre5h1nd" src="./images/BrandLine.png" /></a></p>
+
+<br />
+
+
 ### Here is Fre5h1nd 👋
 
 🌱 I’m learning more about cloud computing and DevOps tools.
